@@ -7,11 +7,12 @@ I have experience in fraud analysis in the mobile telephony segment, where I wor
 
 I volunteered for 2 years in a support service for families and young people looking for a better way to progress in spiritual and secular environments. in 8 months of service as a volunteer I was called to work in the association's office where I was responsible for coordinating expenses, receipts, reimbursements, accounts payable, and logistical processes of moving and transferring volunteers in the field.
 
+
+
+
+
 <!--
 **limaofelipe/limaofelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
